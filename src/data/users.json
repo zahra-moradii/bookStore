@@ -1,0 +1,83 @@
+[
+  {
+    "id": "1234567890",
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "john.doe@gmail.com",
+    "phone": "1234567890",
+    "age": "30",
+    "gender": "Male",
+    "favoriteGenres": [
+      "Adventure",
+      "Science Fiction"
+    ],
+    "password": "strongpassword",
+    "orderBooks": [],
+    "createBooks": [],
+    "favoriteBooks": []
+  },
+  {
+    "id": "9876543210",
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "email": "jane.smith@gmail.com",
+    "phone": "9876543210",
+    "age": "28",
+    "gender": "Female",
+    "favoriteGenres": [
+      "Romance",
+      "Mystery"
+    ],
+    "password": "securepass123",
+    "orderBooks": [],
+    "createBooks": [],
+    "favoriteBooks": []
+  },
+  {
+    "id": "3242643626",
+    "firstName": "zahra",
+    "lastName": "moradi",
+    "email": "zahra@gmail.com",
+    "phone": "09031234567",
+    "age": "23",
+    "gender": "female",
+    "favoriteGenres": [
+      "horror",
+      "comedy"
+    ],
+    "password": "654322",
+    "orderBooks": [
+      {
+        "id": "12",
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "category": "Philosophical Fiction",
+        "price": "$11.99",
+        "description": "A novel about a shepherd's journey to find his personal legend.",
+        "comments": []
+      }
+    ],
+    "createBooks": [
+      {
+        "id": "c5e6a048-5116-44bc-b672-7b54922bc1bb",
+        "title": "new Book title",
+        "author": "name of author",
+        "category": "new name of category",
+        "price": "12",
+        "description": "new description of the book",
+        "comments": []
+      }
+    ],
+    "favoriteBooks": [
+      {
+        "id": "6",
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "category": "Coming of Age",
+        "price": "$13.99",
+        "description": "A novel about the struggles of adolescence and identity.",
+        "comments": []
+      }
+    ]
+  }
+]

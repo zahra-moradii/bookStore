@@ -1,0 +1,197 @@
+[
+  {
+    "id": "1",
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "category": "Classic",
+    "price": "$10.99",
+    "description": "A novel about the American Dream and the Roaring Twenties.",
+    "comments": []
+  },
+  {
+    "id": "2",
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "category": "Classic",
+    "price": "$12.99",
+    "description": "A novel addressing racial injustice in the American South.",
+    "comments": []
+  },
+  {
+    "id": "3",
+    "title": "1984",
+    "author": "George Orwell",
+    "category": "Dystopian",
+    "price": "$9.99",
+    "description": "A classic dystopian novel depicting a totalitarian society.",
+    "comments": []
+  },
+  {
+    "id": "4",
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "category": "Fantasy",
+    "price": "$14.99",
+    "description": "A fantasy novel taking readers on an epic adventure.",
+    "comments": []
+  },
+  {
+    "id": "5",
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "category": "Romance",
+    "price": "$11.99",
+    "description": "A classic novel exploring themes of love and social class.",
+    "comments": []
+  },
+  {
+    "id": "6",
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "category": "Coming of Age",
+    "price": "$13.99",
+    "description": "A novel about the struggles of adolescence and identity.",
+    "comments": [
+      {
+        "userFirstName": "zahra",
+        "userLastName": "moradi",
+        "commentText": "this was a great book"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "category": "Fantasy",
+    "price": "$15.99",
+    "description": "The first book in the Harry Potter series.",
+    "comments": []
+  },
+  {
+    "id": "8",
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "category": "Fantasy",
+    "price": "$19.99",
+    "description": "A trilogy that follows the quest to destroy the One Ring.",
+    "comments": []
+  },
+  {
+    "id": "9",
+    "title": "The Shining",
+    "author": "Stephen King",
+    "category": "Horror",
+    "price": "$16.99",
+    "description": "A psychological horror novel set in an isolated hotel.",
+    "comments": []
+  },
+  {
+    "id": "10",
+    "title": "The Girl on the Train",
+    "author": "Paula Hawkins",
+    "category": "Thriller",
+    "price": "$14.99",
+    "description": "A psychological thriller about a woman's observations on a train.",
+    "comments": []
+  },
+  {
+    "id": "11",
+    "title": "The Martian",
+    "author": "Andy Weir",
+    "category": "Science Fiction",
+    "price": "$12.99",
+    "description": "A survival story of an astronaut stranded on Mars.",
+    "comments": []
+  },
+  {
+    "id": "12",
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "category": "Philosophical Fiction",
+    "price": "$11.99",
+    "description": "A novel about a shepherd's journey to find his personal legend.",
+    "comments": []
+  },
+  {
+    "id": "13",
+    "title": "Gone Girl",
+    "author": "Gillian Flynn",
+    "category": "Mystery",
+    "price": "$14.99",
+    "description": "A psychological thriller about a woman's mysterious disappearance.",
+    "comments": []
+  },
+  {
+    "id": "14",
+    "title": "Sapiens: A Brief History of Humankind",
+    "author": "Yuval Noah Harari",
+    "category": "History",
+    "price": "$16.99",
+    "description": "An exploration of the history and impact of Homo sapiens.",
+    "comments": []
+  },
+  {
+    "id": "15",
+    "title": "Educated",
+    "author": "Tara Westover",
+    "category": "Memoir",
+    "price": "$15.99",
+    "description": "A memoir about a woman's pursuit of education despite a challenging upbringing.",
+    "comments": []
+  },
+  {
+    "id": "16",
+    "title": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "category": "Dystopian",
+    "price": "$13.99",
+    "description": "The first book in a series where children fight in a televised battle.",
+    "comments": []
+  },
+  {
+    "id": "17",
+    "title": "The Road",
+    "author": "Cormac McCarthy",
+    "category": "Post-Apocalyptic",
+    "price": "$14.99",
+    "description": "A father and son's journey in a post-apocalyptic world.",
+    "comments": []
+  },
+  {
+    "id": "18",
+    "title": "The Kite Runner",
+    "author": "Khaled Hosseini",
+    "category": "Historical Fiction",
+    "price": "$12.99",
+    "description": "A novel spanning decades in Afghanistan.",
+    "comments": []
+  },
+  {
+    "id": "19",
+    "title": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "category": "Mystery",
+    "price": "$11.99",
+    "description": "A mystery-thriller involving symbology and art.",
+    "comments": []
+  },
+  {
+    "id": "20",
+    "title": "The Silent Patient",
+    "author": "Alex Michaelides",
+    "category": "Psychological Thriller",
+    "price": "$16.99",
+    "description": "A psychological thriller about a woman's sudden violence and subsequent silence.",
+    "comments": []
+  },
+  {
+    "id": "c5e6a048-5116-44bc-b672-7b54922bc1bb",
+    "title": "new Book title",
+    "author": "name of author",
+    "category": "new name of category",
+    "price": "12",
+    "description": "new description of the book",
+    "comments": []
+  }
+]
