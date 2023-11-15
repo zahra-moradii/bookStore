@@ -13,7 +13,8 @@ import {
 	writeUsersToFile,
 } from "../../utils/global/fileOperation/fileHelpersUser";
 const createBookController = async (request: any, response: any) => {
-	const { userId, title, author, category, price, description } = request.body;
+	const { userId, title, author, photo, category, price, description } =
+		request.body;
 
 	if (!userId || !title || !author || !category || !price || !description) {
 		return return400(response, "All book details are required", "");
@@ -35,6 +36,7 @@ const createBookController = async (request: any, response: any) => {
 			author,
 			category,
 			price,
+			photo,
 			description,
 			comments: [],
 		};
